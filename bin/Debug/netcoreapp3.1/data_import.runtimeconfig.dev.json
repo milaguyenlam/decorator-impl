@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\milag\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\milag\\.nuget\\packages"
-    ]
-  }
-}
