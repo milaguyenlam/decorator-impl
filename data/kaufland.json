@@ -1,0 +1,50 @@
+[
+  {
+    "product_name": "K - Classic Játrová paštika",
+    "product_description": "250 g",
+    "old_price": "29.90",
+    "new_price": "24.90",
+    "from_date": "2020-08-26",
+    "to_date": "2020-09-01",
+    "location_lat": 50,
+    "location_lng": 50,
+    "vendor": "KauflandCZ1500",
+    "scrap_date": "2020-08-27"
+  },
+  {
+    "product_name": "K-Classic Selská šunka",
+    "product_description": "100 g",
+    "old_price": "34.90",
+    "new_price": "25.90",
+    "from_date": "2020-08-26",
+    "to_date": "2020-09-01",
+    "location_lat": 50,
+    "location_lng": 50,
+    "vendor": "KauflandCZ1500",
+    "scrap_date": "2020-08-27"
+  },
+  {
+    "product_name": "Kostelecké uzeniny Salám Rio Ebro",
+    "product_description": "100 g",
+    "old_price": "19.90",
+    "new_price": "14.90",
+    "from_date": "2020-08-26",
+    "to_date": "2020-09-01",
+    "location_lat": 50,
+    "location_lng": 50,
+    "vendor": "KauflandCZ1500",
+    "scrap_date": "2020-08-27"
+  },
+  {
+    "product_name": "Heidemark Krůtí nudličky z prsou",
+    "product_description": "400 g",
+    "old_price": "109.00",
+    "new_price": "69.90",
+    "from_date": "2020-08-26",
+    "to_date": "2020-09-01",
+    "location_lat": 50,
+    "location_lng": 50,
+    "vendor": "KauflandCZ1500",
+    "scrap_date": "2020-08-27"
+  }
+]
